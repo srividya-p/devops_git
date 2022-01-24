@@ -1,0 +1,2 @@
+This is a sample file for Version Control with Git.
+This will be the init commit.
